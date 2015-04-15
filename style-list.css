@@ -21,49 +21,75 @@ body {
 a {
 	text-decoration: none;
 }
+
+/* PIECES OF WORK */
+
 .work-title {
 	text-align: center;
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Archivo Narrow', sans-serif;
 	color: #FFFFFF;
-	font-size: 2em;
+	font-size: 2.5em;
+	font-weight: bold;
 }
 .work-kind {
 	text-align: center;
-	font-family: 'Dosis', sans-serif;
+	font-family: 'Archivo Narrow', sans-serif;
 	color: #FFFFFF;
 	font-size: 1em;
-}
-.piece-work-link h5 {
-	text-align: center;
-	font-family: 'Dosis', sans-serif;
-	color: #FFFFFF;
 }
 .project1 {
 		background-image: url("assets/project1.jpg");
 	}
+	.project1:hover {
+		background-image: url("assets/project1 copy.jpg");
+	}
 .project2 {
 		background-image: url("assets/project2.jpg");
+	}
+	.project2:hover {
+		background-image: url("assets/project2 copy.jpg");
 	}
 .project3 {
 		background-image: url("assets/project3.png");
 	}
+	.project3:hover {
+		background-image: url("assets/project3 copy.png");
+	}
 .project4 {
 		background-image: url("assets/project4.png");
+	}
+	.project4:hover {
+		background-image: url("assets/project4 copy.png");
 	}
 .project5 {
 		background-image: url("assets/project5.png");
 	}
+	.project5:hover {
+		background-image: url("assets/project5 copy.png");
+	}
 .project6 {
 		background-image: url("assets/project6.png");
+	}
+	.project6:hover {
+		background-image: url("assets/project6 copy.png");
 	}
 .project7 {
 		background-image: url("assets/project7.png");
 	}
+	.project7:hover {
+		background-image: url("assets/project7 copy.png");
+	}
 .project8 {
 		background-image: url("assets/project8.png");
 	}
+	.project8:hover {
+		background-image: url("assets/project8 copy.png");
+	}
 .project9 {
 		background-image: url("assets/project9.png");
+	}
+	.project9:hover {
+		background-image: url("assets/project9 copy.png");
 	}
 .piece-work-link {
 	background-position: center;
@@ -182,7 +208,7 @@ div#slider figure {
 		height: 200px;
 		margin: 2.032520325%;
 		padding-top: 50px;
-	}	
+	}
 
 }
 
