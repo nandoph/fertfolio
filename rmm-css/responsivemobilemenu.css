@@ -285,7 +285,7 @@ border-bottom-right-radius: 5px;
 .rmm.minimal .rmm-toggled-controls {
 	display:block;
 	height:36px;
-	color:#333333;
+	color:#FFFFFF;
 	text-align:left;
 	position:relative;
 }
@@ -294,7 +294,7 @@ border-bottom-right-radius: 5px;
 	top:9px;
 	left:9px;
 	font-size:16px;
-	color:#33333;
+	color:#FFFFFF;
 }
 .rmm.minimal .rmm-button {
 	display:block;
@@ -307,7 +307,7 @@ border-bottom-right-radius: 5px;
 	display:block;
 	margin:4px 0px 4px 0px;
 	height:2px;
-	background:#333333;
+	background:#FFFFFF;
 	width:25px;
 }
 .rmm.minimal .rmm-toggled ul li a {
@@ -316,7 +316,7 @@ border-bottom-right-radius: 5px;
 	text-align:center;
 	padding:10px 0px 10px 0px;
 	border-bottom:1px solid #dedede;
-	color:#333333;
+	color:#FFFFFF;
 }
 .rmm.minimal .rmm-toggled ul li:first-child a {
 	border-top:1px solid #dedede;
