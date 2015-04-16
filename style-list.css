@@ -103,7 +103,7 @@ a {
 	background-image: 
 }
 
-/* Headline */
+/* HEADER */
 
 .headline {
 	color: #FFFFFF;
@@ -129,7 +129,7 @@ a {
 	width: 100%;
 }
 
-/* MEDIA QUERIES REQUIRES */
+/* MEDIA QUERIES REQUIREMENTS */
 
 @media (min-width: 768px) {
 	.headline {
@@ -175,7 +175,7 @@ a {
 	/*width: 210px;*/
 	width: 100%;
 	height: 300px;
-	margin: 6.25% auto;
+	margin: 10% auto;
 	display: block;	
 	padding-top: 90px;
 
@@ -213,6 +213,19 @@ a {
 	margin-left: auto;
 	margin-right: auto;
 	}
+	.work-title {
+	opacity: 0;
+	}
+	.work-kind {
+	opacity: 0;
+	}
+	.work-title:hover {
+	opacity: 1.0;
+	}
+	.work-kind:hover {
+	opacity: 1.0;
+	}
+
 }
 
 
