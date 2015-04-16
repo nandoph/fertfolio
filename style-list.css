@@ -104,8 +104,22 @@ a {
 .headline {
 	color: #FFFFFF;
 	text-align: center;
-	padding: 20px;
 	font-size: 36px;
+	font-family: 'Anton', sans-serif;
+}
+.social {
+	text-align: center;
+}
+.social a{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.subline {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif;
+
 }
 
 /* MEDIA QUERIES REQUIRES */
@@ -113,6 +127,9 @@ a {
 @media (min-width: 768px) {
 	.headline {
 		font-size: 48px;
+	}
+	.subline {
+	font-size: 20px;
 	}
 }
 
