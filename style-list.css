@@ -198,6 +198,12 @@ a {
 		margin: 3.412969283%;
 		padding-top: 50px;
 	}
+	.pictures {
+	display: block;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	}
 }
 
 @media (min-width: 1024px) {
@@ -224,6 +230,12 @@ a {
 	}
 	.work-kind:hover {
 	opacity: 1.0;
+	}
+	.pictures {
+	display: block;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
 	}
 
 }
