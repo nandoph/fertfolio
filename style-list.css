@@ -25,6 +25,11 @@ a {
 .pictures {
 	width: 100%;
 }
+.description {
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
 
 /* PIECES OF WORK */
 
